@@ -15,6 +15,6 @@ var files_dup =
     [ "ft_strdup.c", "ft__strdup_8c.html", "ft__strdup_8c" ],
     [ "ft_strlen.c", "ft__strlen_8c.html", "ft__strlen_8c" ],
     [ "ft_write.c", "ft__write_8c.html", "ft__write_8c" ],
-    [ "libftprint.h", "libftprint_8h_source.html", null ],
-    [ "main.c", "main_8c.html", null ]
+    [ "libftprint.h", "libftprint_8h.html", "libftprint_8h" ],
+    [ "main.c", "main_8c.html", "main_8c" ]
 ];

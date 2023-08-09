@@ -1,0 +1,9 @@
+<map id="ft_puiss_dix" name="ft_puiss_dix">
+<area shape="rect" id="Node000001" title="Calculate a power of ten." alt="" coords="243,29,333,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="308,16,301,10,288,8,276,10,270,14,268,20,272,28,267,30,263,20,266,11,274,5,288,3,303,6,311,13"/>
+<area shape="rect" id="Node000002" href="$ft__putnbr__fd_8c.html#ab41a953a095404251365b00d3fe09043" title="Write a number (recursively)" alt="" coords="142,29,195,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="228,45,196,45,196,40,228,40"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="188,16,181,10,168,8,157,10,150,14,149,20,152,28,147,30,143,20,146,11,155,5,168,3,184,6,191,13"/>
+<area shape="rect" id="Node000003" href="$ft__putnbr__fd_8c.html#aaa1ad8bf6c04a88a005000a1af10ffc0" title="Replication of the putnbr_fd function." alt="" coords="5,29,94,56"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="127,45,94,45,94,40,127,40"/>
+</map>

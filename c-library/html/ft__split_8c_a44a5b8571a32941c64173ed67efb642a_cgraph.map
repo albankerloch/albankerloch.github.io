@@ -1,0 +1,14 @@
+<map id="ft_split" name="ft_split">
+<area shape="rect" id="Node000001" title="Replication of the split function." alt="" coords="5,56,65,83"/>
+<area shape="rect" id="Node000002" href="$ft__split_8c.html#aa1509c9e9c6ab37132d319a16ed84437" title="Length counter function." alt="" coords="118,31,186,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,60,103,52,104,57,66,66"/>
+<area shape="rect" id="Node000003" href="$ft__split_8c.html#aec6d45d9486b7c5c89bbc34b036893ae" title="Find the next separator." alt="" coords="239,5,327,32"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="50,53,77,33,112,16,169,7,224,8,224,13,169,12,113,21,80,37,53,58"/>
+<area shape="rect" id="Node000004" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="250,81,317,108"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="65,70,235,87,235,92,65,75"/>
+<area shape="rect" id="Node000005" href="$ft__split_8c.html#a4d2c8f1477d9e5a143d2550c9d91c380" title="Replication of the strndup function." alt="" coords="113,132,191,159"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="59,81,119,121,116,126,56,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,35,224,27,225,33,186,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="187,54,237,74,235,79,185,59"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="188,129,234,110,236,115,190,134"/>
+</map>

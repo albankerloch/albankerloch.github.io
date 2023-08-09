@@ -1,0 +1,6 @@
+<map id="ft_wbase" name="ft_wbase">
+<area shape="rect" id="Node000001" title="Affect a number to a string." alt="" coords="110,29,182,56"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="164,16,158,10,146,8,135,10,129,14,127,20,130,28,125,30,122,20,124,11,133,5,146,3,160,6,168,13"/>
+<area shape="rect" id="Node000002" href="$ft__itoa_8c.html#ae6654fc09fbf0757b2adcb58ffe9b3b3" title="Replication of the itoa function." alt="" coords="5,29,62,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,45,62,45,62,40,95,40"/>
+</map>

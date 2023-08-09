@@ -1,0 +1,9 @@
+<map id="ft_putnbr_fd" name="ft_putnbr_fd">
+<area shape="rect" id="Node000001" title="Replication of the putnbr_fd function." alt="" coords="5,29,94,56"/>
+<area shape="rect" id="Node000002" href="$ft__putnbr__fd_8c.html#ab41a953a095404251365b00d3fe09043" title="Write a number (recursively)" alt="" coords="142,29,195,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,40,127,40,127,45,94,45"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="147,30,143,20,146,11,155,5,168,3,184,6,191,13,188,16,181,10,168,8,157,10,150,14,149,20,152,28"/>
+<area shape="rect" id="Node000003" href="$ft__putnbr__fd_8c.html#a0a6ffd53552b02de356069461f4e441b" title="Calculate a power of ten." alt="" coords="243,29,333,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,40,228,40,228,45,195,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="267,30,263,20,266,11,274,5,288,3,303,6,311,13,308,16,301,10,288,8,276,10,270,14,268,20,272,28"/>
+</map>

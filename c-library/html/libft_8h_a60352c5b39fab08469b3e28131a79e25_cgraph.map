@@ -1,0 +1,8 @@
+<map id="ft_strtrim" name="ft_strtrim">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,78,57"/>
+<area shape="rect" id="Node000002" href="$ft__strtrim_8c.html#ae61fc051f6d90104d10a04de7b1edea1" title=" " alt="" coords="126,5,189,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,34,111,26,112,31,79,39"/>
+<area shape="rect" id="Node000003" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="237,31,304,57"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="78,41,222,41,222,47,78,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,23,223,31,222,36,189,28"/>
+</map>

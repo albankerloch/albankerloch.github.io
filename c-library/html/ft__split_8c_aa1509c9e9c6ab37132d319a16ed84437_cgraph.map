@@ -1,0 +1,7 @@
+<map id="ft_count" name="ft_count">
+<area shape="rect" id="Node000001" title="Length counter function." alt="" coords="5,31,73,57"/>
+<area shape="rect" id="Node000002" href="$ft__split_8c.html#aec6d45d9486b7c5c89bbc34b036893ae" title="Find the next separator." alt="" coords="121,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,35,105,28,107,33,73,40"/>
+<area shape="rect" id="Node000003" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="131,56,199,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="73,48,117,57,116,62,72,53"/>
+</map>
