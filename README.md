@@ -14,7 +14,7 @@ Use the doxyfile located at the root of a git repository to generate an document
 ```bash
 doxygen <config_file>
 ```
-- Windows : use the run button of Doxygen frontedn GIU 
+- Windows : use the run button of Doxywizard
 
 #### Author : Alban Kerloc'h
 #### Category: Dev-Sec-Ops
