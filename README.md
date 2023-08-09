@@ -6,7 +6,7 @@ The output of doxygen documentation for several git repositories.
 
 Use the doxyfile located at the root of a git repository to generate an documentation
 
-- required doxygen : https://www.doxygen.nl/index.html
+- doxygen required: https://www.doxygen.nl/index.html
 
 ## Usage
 
