@@ -1,0 +1,25 @@
+<map id="ft_wbase" name="ft_wbase">
+<area shape="rect" id="Node000001" title="Affect a number to an allocated in a certain numbering." alt="" coords="861,31,933,57"/>
+<area shape="poly" id="edge12_Node000001_Node000001" title=" " alt="" coords="921,18,913,12,897,9,882,11,874,16,872,22,876,29,871,31,867,22,870,12,880,6,897,4,915,7,924,14"/>
+<area shape="rect" id="Node000002" href="$ft__putnbr__base_8c.html#a24815d094f34d9eb2a1288d10b8bd359" title="Manage the sign before a number replacement." alt="" coords="699,5,806,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="846,38,805,31,806,25,846,33"/>
+<area shape="rect" id="Node000009" href="$ft__putnbr__base__p_8c.html#a2f33d4ba2e17b7b581850c0bf068afdf" title="Affect a memory address in an certain numbering." alt="" coords="692,56,813,83"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="846,56,813,61,813,56,845,50"/>
+<area shape="rect" id="Node000003" href="$ft__putnbr__base_8c.html#ab5d9d7094e8c0bdcd45b2ca213487b05" title="Manage length and precision specifier before a number replacement." alt="" coords="566,5,637,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="684,21,638,21,638,16,684,16"/>
+<area shape="rect" id="Node000004" href="$ft__write_8c.html#acb5c93b91b86ca3ea395b496eef6850d" title="affect the output of a number replacement" alt="" coords="435,5,511,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="551,21,512,21,512,16,551,16"/>
+<area shape="rect" id="Node000005" href="$ft__printf_8c.html#a75dbee89b4b5fb139eaec840cb59cbe7" title="Affect the output of a replacement." alt="" coords="309,31,387,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="421,32,388,39,387,34,420,27"/>
+<area shape="rect" id="Node000006" href="$ft__printf_8c.html#ad6d2b4491ee2a77161176f3e34e11505" title="Find the content to print (after replacements)" alt="" coords="214,31,261,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="295,47,262,47,262,41,295,41"/>
+<area shape="rect" id="Node000007" href="$ft__printf_8c.html#a1ee8ae8a80a7d9141ea5339af8565f2e" title="Replication of the printf function." alt="" coords="103,31,166,57"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="199,47,166,47,166,41,199,41"/>
+<area shape="rect" id="Node000008" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="88,47,55,47,55,41,88,41"/>
+<area shape="rect" id="Node000010" href="$ft__putnbr__base__p_8c.html#a18fa0ffb2b234b9ab48a8c660625d677" title="Manage length and precision specifier before an memory address replacement." alt="" coords="559,56,644,83"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="677,72,645,72,645,67,677,67"/>
+<area shape="rect" id="Node000011" href="$ft__write_8c.html#a905ddf384a970ba04f14b3201c110783" title="affect the output of a pointer replacement" alt="" coords="435,56,511,83"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="544,72,512,72,512,67,544,67"/>
+<area shape="poly" id="edge11_Node000011_Node000005" title=" " alt="" coords="420,61,387,54,388,49,421,56"/>
+</map>

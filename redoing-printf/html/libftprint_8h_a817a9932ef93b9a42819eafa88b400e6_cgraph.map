@@ -1,0 +1,7 @@
+<map id="ft_cy" name="ft_cy">
+<area shape="rect" id="Node000001" title="Calculation of a number of characters needed for printing a given number." alt="" coords="5,5,55,32"/>
+<area shape="rect" id="Node000002" href="$ft__putnbr__base_8c.html#a522e39ec68ab1b0f1e65eae477f9167c" title="Calculation of a number of digit." alt="" coords="103,5,152,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,16,88,16,88,21,55,21"/>
+<area shape="rect" id="Node000003" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="200,5,267,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="152,16,185,16,185,21,152,21"/>
+</map>

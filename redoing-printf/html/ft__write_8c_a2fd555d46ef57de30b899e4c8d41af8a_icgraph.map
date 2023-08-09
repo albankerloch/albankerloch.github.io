@@ -1,0 +1,11 @@
+<map id="ft_write_s" name="ft_write_s">
+<area shape="rect" id="Node000001" title="affect the output of a string replacement" alt="" coords="435,5,511,32"/>
+<area shape="rect" id="Node000002" href="$ft__printf_8c.html#a75dbee89b4b5fb139eaec840cb59cbe7" title="Affect the output of a replacement." alt="" coords="309,5,387,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,21,387,21,387,16,420,16"/>
+<area shape="rect" id="Node000003" href="$ft__printf_8c.html#ad6d2b4491ee2a77161176f3e34e11505" title="Find the content to print (after replacements)" alt="" coords="214,5,261,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,21,262,21,262,16,295,16"/>
+<area shape="rect" id="Node000004" href="$ft__printf_8c.html#a1ee8ae8a80a7d9141ea5339af8565f2e" title="Replication of the printf function." alt="" coords="103,5,166,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="199,21,166,21,166,16,199,16"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="88,21,55,21,55,16,88,16"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="ft_countnbr_base_p" name="ft_countnbr_base_p">
+<area shape="rect" id="Node000001" title="Calculation of the length needed for a memory address replacement." alt="" coords="607,5,741,32"/>
+<area shape="rect" id="Node000002" href="$ft__count_8c.html#aa261b68672789bbad82f851784b29eb5" title="Calculation of the length of a pointer replacement." alt="" coords="478,5,559,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="592,21,560,21,560,16,592,16"/>
+<area shape="rect" id="Node000003" href="$ft__size_8c.html#a274a116005ee56ec8994230faa3bc929" title="Calculation of the length of the output of a replacement." alt="" coords="321,5,430,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,21,430,21,430,16,463,16"/>
+<area shape="rect" id="Node000004" href="$ft__size_8c.html#aa6b3eb9b95e19938231487a09fa57fbf" title="Calculation of the length of the content to print." alt="" coords="214,5,273,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,21,274,21,274,16,306,16"/>
+<area shape="rect" id="Node000005" href="$ft__printf_8c.html#a1ee8ae8a80a7d9141ea5339af8565f2e" title="Replication of the printf function." alt="" coords="103,5,166,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="199,21,167,21,167,16,199,16"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="88,21,55,21,55,16,88,16"/>
+</map>

@@ -1,0 +1,67 @@
+<map id="ft_parsing" name="ft_parsing">
+<area shape="rect" id="Node000001" title="Affect the output of a replacement." alt="" coords="5,360,83,387"/>
+<area shape="rect" id="Node000002" href="$ft__check_8c.html#a67162160aee1186ac2bdd0a4562b95d2" title="Determination of the flag 1." alt="" coords="147,157,244,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,359,55,326,71,282,95,236,129,194,133,190,137,194,133,198,100,238,76,284,60,328,51,360"/>
+<area shape="rect" id="Node000003" href="$ft__check_8c.html#aee5880cef62cc48f90594a9019aa1227" title="Determination of the length specifier of the conversion." alt="" coords="131,259,260,285"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="56,357,88,327,129,295,139,290,141,294,132,300,91,331,60,361"/>
+<area shape="rect" id="Node000007" href="$ft__check_8c.html#a75c2e6d3bb5900ff8f55742b13b253b3" title="Determination of the precision specifier of the conversion." alt="" coords="133,208,258,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="49,358,78,304,101,272,129,245,135,240,138,244,132,249,105,276,83,307,54,361"/>
+<area shape="rect" id="Node000008" href="$ft__printf_8c.html#a14f78dbdd71fd53f7b97445292baf93a" title="Check if a type is part of a list of types." alt="" coords="160,309,231,336"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="82,358,145,337,147,342,84,363"/>
+<area shape="rect" id="Node000009" href="$ft__write_8c.html#a730bd2eb7867fbd80bc9e04f61e416df" title="affect the output of a characters replacement" alt="" coords="469,613,546,640"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="52,386,80,446,103,480,132,510,171,536,213,558,301,590,386,610,455,620,454,625,385,615,300,595,211,562,168,540,129,514,99,484,75,449,48,388"/>
+<area shape="rect" id="Node000011" href="$ft__write_8c.html#acb5c93b91b86ca3ea395b496eef6850d" title="affect the output of a number replacement" alt="" coords="157,411,234,437"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="84,384,144,404,142,409,82,389"/>
+<area shape="rect" id="Node000019" href="$ft__write_8c.html#a905ddf384a970ba04f14b3201c110783" title="affect the output of a pointer replacement" alt="" coords="157,360,234,387"/>
+<area shape="poly" id="edge27_Node000001_Node000019" title=" " alt="" coords="83,371,142,371,142,376,83,376"/>
+<area shape="rect" id="Node000022" href="$ft__write_8c.html#a01d254796239c3682d4c3217b0dbfc97" title="affect the output of a replacement by a % character" alt="" coords="308,519,399,545"/>
+<area shape="poly" id="edge38_Node000001_Node000022" title=" " alt="" coords="59,385,91,416,132,447,173,469,215,487,295,514,293,519,213,492,170,473,129,452,87,420,56,389"/>
+<area shape="rect" id="Node000023" href="$ft__write_8c.html#a2fd555d46ef57de30b899e4c8d41af8a" title="affect the output of a string replacement" alt="" coords="469,664,546,691"/>
+<area shape="poly" id="edge40_Node000001_Node000023" title=" " alt="" coords="49,387,55,426,69,479,94,536,111,561,132,583,169,610,210,631,254,648,299,659,384,673,455,676,455,681,384,678,297,665,252,653,208,636,167,615,129,587,107,565,90,538,64,481,50,427,44,388"/>
+<area shape="rect" id="Node000004" href="$ft__atoi_8c.html#afad2ec371b4188602da9a94db687cb16" title="Replication of the atoi function." alt="" coords="326,208,382,235"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,255,311,232,312,237,240,261"/>
+<area shape="rect" id="Node000006" href="$ft__isdigit_8c.html#aea941269ac57c50190e593eb42fbc74e" title="Replication of the isdigit function." alt="" coords="319,157,388,184"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="238,256,258,244,273,232,282,220,306,194,312,190,315,194,310,198,287,224,277,236,262,249,240,260"/>
+<area shape="rect" id="Node000005" href="$ft__atoi_8c.html#a3cf519136dd257fd16fa221ab15fa9b6" title="Replication of the isspace function." alt="" coords="467,5,548,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="381,208,397,194,410,176,416,158,420,123,425,87,432,69,445,49,457,38,460,42,449,52,437,71,430,89,426,123,421,159,414,178,401,198,384,212"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="259,219,311,219,311,224,259,224"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="239,205,304,184,305,189,240,210"/>
+<area shape="rect" id="Node000010" href="$ft__fill__caract_8c.html#aab8e86cef846e237daf0239698e98ebd" title="Affect repeated character to an allocated string." alt="" coords="616,512,706,539"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="535,611,566,592,630,546,633,550,569,597,538,615"/>
+<area shape="rect" id="Node000012" href="$ft__putnbr__base_8c.html#ab5d9d7094e8c0bdcd45b2ca213487b05" title="Manage length and precision specifier before a number replacement." alt="" coords="318,411,389,437"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="234,421,303,421,303,427,234,427"/>
+<area shape="poly" id="edge18_Node000012_Node000010" title=" " alt="" coords="370,436,404,464,448,491,487,504,527,513,601,522,601,527,526,518,485,509,446,496,401,469,367,440"/>
+<area shape="rect" id="Node000013" href="$ft__putnbr__base_8c.html#a522e39ec68ab1b0f1e65eae477f9167c" title="Calculation of a number of digit." alt="" coords="754,309,803,336"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="389,419,471,411,567,395,661,366,740,336,742,341,663,371,568,400,472,417,390,425"/>
+<area shape="rect" id="Node000015" href="$ft__putnbr__base_8c.html#a817a9932ef93b9a42819eafa88b400e6" title="Calculation of a number of characters needed for printing a given number." alt="" coords="636,309,686,336"/>
+<area shape="poly" id="edge16_Node000012_Node000015" title=" " alt="" coords="389,410,621,333,623,338,391,415"/>
+<area shape="rect" id="Node000016" href="$ft__isdigit_8c.html#abc1bdaeaea0d28d9499f5f13194ca0ca" title="Replication of the max function." alt="" coords="631,171,691,197"/>
+<area shape="poly" id="edge19_Node000012_Node000016" title=" " alt="" coords="357,409,400,289,426,227,446,194,487,174,533,166,577,166,617,171,616,177,577,172,533,171,489,179,449,198,430,230,405,291,362,411"/>
+<area shape="rect" id="Node000017" href="$ft__putnbr__base_8c.html#a24815d094f34d9eb2a1288d10b8bd359" title="Manage the sign before a number replacement." alt="" coords="454,309,561,336"/>
+<area shape="poly" id="edge20_Node000012_Node000017" title=" " alt="" coords="374,408,472,342,475,347,377,413"/>
+<area shape="rect" id="Node000014" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="851,309,919,336"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="804,320,836,320,836,325,804,325"/>
+<area shape="poly" id="edge17_Node000015_Node000013" title=" " alt="" coords="686,320,739,320,739,325,686,325"/>
+<area shape="poly" id="edge22_Node000017_Node000010" title=" " alt="" coords="544,334,569,353,599,388,622,427,653,497,648,499,617,430,594,391,566,357,541,339"/>
+<area shape="poly" id="edge21_Node000017_Node000015" title=" " alt="" coords="561,320,621,320,621,325,561,325"/>
+<area shape="poly" id="edge23_Node000017_Node000016" title=" " alt="" coords="521,307,614,221,631,206,634,209,617,225,525,311"/>
+<area shape="rect" id="Node000018" href="$ft__putnbr__base_8c.html#ab03731fe550c176eb1d4f0a6f087cce6" title="Affect a number to an allocated in a certain numbering." alt="" coords="625,259,697,285"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="550,306,610,286,611,291,551,311"/>
+<area shape="poly" id="edge25_Node000018_Node000014" title=" " alt="" coords="698,274,804,295,838,304,836,309,803,300,697,280"/>
+<area shape="poly" id="edge26_Node000018_Node000018" title=" " alt="" coords="640,259,636,250,639,241,647,234,661,232,676,235,684,242,680,246,674,240,661,237,649,239,643,244,641,250,645,257"/>
+<area shape="rect" id="Node000020" href="$ft__putnbr__base__p_8c.html#a18fa0ffb2b234b9ab48a8c660625d677" title="Manage length and precision specifier before an memory address replacement." alt="" coords="311,259,396,285"/>
+<area shape="poly" id="edge28_Node000019_Node000020" title=" " alt="" coords="233,358,259,346,295,320,326,294,330,298,298,325,261,350,235,363"/>
+<area shape="poly" id="edge31_Node000020_Node000010" title=" " alt="" coords="374,284,633,500,630,504,370,288"/>
+<area shape="poly" id="edge29_Node000020_Node000013" title=" " alt="" coords="384,256,397,245,408,229,414,213,417,181,422,151,431,136,446,123,477,109,504,109,568,123,643,127,674,135,708,157,735,188,755,225,768,262,776,294,770,295,763,263,750,227,731,191,704,161,672,140,642,132,567,128,504,114,478,114,449,128,435,140,427,153,422,182,419,214,413,231,401,248,387,260"/>
+<area shape="poly" id="edge30_Node000020_Node000015" title=" " alt="" coords="397,272,477,281,568,295,623,308,621,314,567,300,476,286,397,278"/>
+<area shape="poly" id="edge32_Node000020_Node000016" title=" " alt="" coords="383,256,397,245,412,220,418,195,425,171,433,160,446,150,468,140,491,134,538,135,583,146,622,162,620,166,582,151,537,141,491,140,469,145,449,154,437,164,430,174,423,196,417,222,401,248,387,260"/>
+<area shape="rect" id="Node000021" href="$ft__putnbr__base__p_8c.html#a2f33d4ba2e17b7b581850c0bf068afdf" title="Affect a memory address in an certain numbering." alt="" coords="447,208,568,235"/>
+<area shape="poly" id="edge33_Node000020_Node000021" title=" " alt="" coords="396,255,450,237,452,242,398,261"/>
+<area shape="poly" id="edge35_Node000021_Node000010" title=" " alt="" coords="523,233,546,261,570,296,598,350,621,406,654,497,649,499,616,408,593,352,565,299,542,264,519,237"/>
+<area shape="poly" id="edge34_Node000021_Node000015" title=" " alt="" coords="539,233,569,251,594,273,617,295,625,301,622,305,614,299,590,277,566,255,536,238"/>
+<area shape="poly" id="edge36_Node000021_Node000016" title=" " alt="" coords="564,205,616,192,617,197,566,210"/>
+<area shape="poly" id="edge37_Node000021_Node000018" title=" " alt="" coords="551,233,611,253,610,258,550,238"/>
+<area shape="poly" id="edge39_Node000022_Node000010" title=" " alt="" coords="400,536,448,541,508,545,567,541,601,536,602,542,568,547,508,550,447,547,400,542"/>
+<area shape="poly" id="edge41_Node000023_Node000010" title=" " alt="" coords="545,663,566,650,590,627,612,600,644,550,648,553,616,604,594,630,569,654,547,667"/>
+<area shape="poly" id="edge42_Node000023_Node000014" title=" " alt="" coords="543,661,566,650,640,605,704,549,753,496,799,440,865,347,869,350,803,443,758,499,708,553,643,609,569,654,545,666"/>
+</map>

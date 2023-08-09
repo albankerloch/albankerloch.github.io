@@ -1,0 +1,14 @@
+<map id="ft_count_p" name="ft_count_p">
+<area shape="rect" id="Node000001" title="Calculation of the length of a pointer replacement." alt="" coords="5,31,87,57"/>
+<area shape="rect" id="Node000002" href="$ft__countnbr_8c.html#a9e1870678149058ea19908d375dd37c3" title="Calculation of the length needed for a memory address replacement." alt="" coords="135,31,269,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,41,120,41,120,47,87,47"/>
+<area shape="rect" id="Node000003" href="$ft__putnbr__base_8c.html#a522e39ec68ab1b0f1e65eae477f9167c" title="Calculation of a number of digit." alt="" coords="425,5,475,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,27,317,16,366,13,411,14,410,19,366,19,317,21,255,33"/>
+<area shape="rect" id="Node000005" href="$ft__putnbr__base_8c.html#a817a9932ef93b9a42819eafa88b400e6" title="Calculation of a number of characters needed for printing a given number." alt="" coords="323,31,372,57"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="269,41,308,41,308,47,269,47"/>
+<area shape="rect" id="Node000006" href="$ft__isdigit_8c.html#abc1bdaeaea0d28d9499f5f13194ca0ca" title="Replication of the max function." alt="" coords="317,81,377,108"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="243,55,304,77,302,82,242,60"/>
+<area shape="rect" id="Node000004" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="523,5,590,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,16,508,16,508,21,475,21"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="372,35,410,26,411,31,373,41"/>
+</map>

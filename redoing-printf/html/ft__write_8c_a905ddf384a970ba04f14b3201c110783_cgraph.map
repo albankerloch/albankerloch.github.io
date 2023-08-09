@@ -1,0 +1,25 @@
+<map id="ft_write_p" name="ft_write_p">
+<area shape="rect" id="Node000001" title="affect the output of a pointer replacement" alt="" coords="5,80,82,107"/>
+<area shape="rect" id="Node000002" href="$ft__putnbr__base__p_8c.html#a18fa0ffb2b234b9ab48a8c660625d677" title="Manage length and precision specifier before an memory address replacement." alt="" coords="130,80,215,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,91,115,91,115,96,82,96"/>
+<area shape="rect" id="Node000003" href="$ft__putnbr__base_8c.html#a522e39ec68ab1b0f1e65eae477f9167c" title="Calculation of a number of digit." alt="" coords="581,5,631,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,77,223,57,262,39,345,18,430,10,507,9,567,12,566,17,506,14,430,15,346,24,264,44,226,62,194,82"/>
+<area shape="rect" id="Node000005" href="$ft__putnbr__base_8c.html#a817a9932ef93b9a42819eafa88b400e6" title="Calculation of a number of characters needed for printing a given number." alt="" coords="452,29,501,56"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="215,77,262,65,356,51,437,43,437,48,357,56,264,71,216,83"/>
+<area shape="rect" id="Node000006" href="$ft__fill__caract_8c.html#aab8e86cef846e237daf0239698e98ebd" title="Affect repeated character to an allocated string." alt="" coords="431,131,522,157"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="216,104,264,116,343,129,417,137,416,142,343,134,262,121,215,109"/>
+<area shape="rect" id="Node000007" href="$ft__isdigit_8c.html#abc1bdaeaea0d28d9499f5f13194ca0ca" title="Replication of the max function." alt="" coords="446,181,507,208"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="197,105,264,139,353,167,432,184,431,190,352,172,262,144,194,110"/>
+<area shape="rect" id="Node000008" href="$ft__putnbr__base__p_8c.html#a2f33d4ba2e17b7b581850c0bf068afdf" title="Affect a memory address in an certain numbering." alt="" coords="263,80,383,107"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="215,91,248,91,248,96,215,96"/>
+<area shape="rect" id="Node000004" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="690,43,757,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="632,24,677,38,675,44,630,29"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="501,36,566,23,567,29,502,41"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="365,77,437,53,439,58,367,82"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="367,105,421,123,419,128,365,110"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="344,105,433,167,439,171,436,176,430,172,341,109"/>
+<area shape="rect" id="Node000009" href="$ft__putnbr__base_8c.html#ab03731fe550c176eb1d4f0a6f087cce6" title="Affect a number to an allocated in a certain numbering." alt="" coords="570,80,642,107"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="384,91,554,91,554,96,384,96"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="642,79,675,69,676,74,643,84"/>
+<area shape="poly" id="edge14_Node000009_Node000009" title=" " alt="" coords="585,81,581,71,584,62,592,56,606,53,621,56,629,63,625,67,619,61,606,59,594,61,588,65,586,71,590,79"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="ft_putnbr_base" name="ft_putnbr_base">
+<area shape="rect" id="Node000001" title="Manage the sign before a number replacement." alt="" coords="5,81,112,108"/>
+<area shape="rect" id="Node000002" href="$ft__putnbr__base_8c.html#a817a9932ef93b9a42819eafa88b400e6" title="Calculation of a number of characters needed for printing a given number." alt="" coords="180,5,230,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,78,166,36,168,40,87,83"/>
+<area shape="rect" id="Node000005" href="$ft__fill__caract_8c.html#aab8e86cef846e237daf0239698e98ebd" title="Affect repeated character to an allocated string." alt="" coords="160,56,250,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="112,83,144,77,145,82,113,88"/>
+<area shape="rect" id="Node000006" href="$ft__isdigit_8c.html#abc1bdaeaea0d28d9499f5f13194ca0ca" title="Replication of the max function." alt="" coords="175,107,235,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="113,101,160,110,159,115,112,107"/>
+<area shape="rect" id="Node000007" href="$ft__putnbr__base_8c.html#ab03731fe550c176eb1d4f0a6f087cce6" title="Affect a number to an allocated in a certain numbering." alt="" coords="298,119,370,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="81,106,117,127,160,143,192,147,224,148,283,141,284,146,224,153,191,153,159,148,115,131,79,111"/>
+<area shape="rect" id="Node000003" href="$ft__putnbr__base_8c.html#a522e39ec68ab1b0f1e65eae477f9167c" title="Calculation of a number of digit." alt="" coords="310,25,359,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,20,295,30,294,35,230,25"/>
+<area shape="rect" id="Node000004" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="418,81,486,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="361,48,410,72,408,77,358,53"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="370,118,403,107,405,112,372,123"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="313,119,309,110,312,101,320,94,334,92,349,95,357,102,353,106,347,100,334,97,323,99,316,104,315,110,318,117"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ft_count_d" name="ft_count_d">
+<area shape="rect" id="Node000001" title="Calculation of the length of a diuxX replacement." alt="" coords="5,31,87,57"/>
+<area shape="rect" id="Node000002" href="$ft__countnbr_8c.html#a859bc0b734643880ab47679eba30601b" title="Calculation of the length needed for a number replacement." alt="" coords="135,31,255,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,41,120,41,120,47,87,47"/>
+<area shape="rect" id="Node000003" href="$ft__putnbr__base_8c.html#a522e39ec68ab1b0f1e65eae477f9167c" title="Calculation of a number of digit." alt="" coords="411,5,461,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,27,303,16,352,13,396,14,396,19,352,18,303,21,245,33"/>
+<area shape="rect" id="Node000005" href="$ft__putnbr__base_8c.html#a817a9932ef93b9a42819eafa88b400e6" title="Calculation of a number of characters needed for printing a given number." alt="" coords="309,31,358,57"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="255,41,293,41,293,47,255,47"/>
+<area shape="rect" id="Node000006" href="$ft__isdigit_8c.html#abc1bdaeaea0d28d9499f5f13194ca0ca" title="Replication of the max function." alt="" coords="303,81,363,108"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="235,55,290,76,288,81,233,60"/>
+<area shape="rect" id="Node000004" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="509,5,576,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="461,16,494,16,494,21,461,21"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="358,35,396,26,397,31,359,41"/>
+</map>

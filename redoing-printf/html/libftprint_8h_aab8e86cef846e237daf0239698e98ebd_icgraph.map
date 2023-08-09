@@ -1,0 +1,35 @@
+<map id="ft_fill_caract" name="ft_fill_caract">
+<area shape="rect" id="Node000001" title="Affect repeated character to an allocated string." alt="" coords="876,133,966,160"/>
+<area shape="rect" id="Node000002" href="$ft__putnbr__base_8c.html#ab5d9d7094e8c0bdcd45b2ca213487b05" title="Manage length and precision specifier before a number replacement." alt="" coords="581,32,652,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="907,121,876,68,854,42,826,22,804,14,781,10,732,11,687,21,649,34,647,29,685,16,732,6,781,4,806,9,829,18,857,38,881,65,911,118"/>
+<area shape="rect" id="Node000008" href="$ft__putnbr__base__p_8c.html#a18fa0ffb2b234b9ab48a8c660625d677" title="Manage length and precision specifier before an memory address replacement." alt="" coords="574,133,659,160"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="864,132,827,124,767,119,708,124,659,136,657,130,707,119,767,113,828,119,865,126"/>
+<area shape="rect" id="Node000010" href="$ft__putnbr__base_8c.html#a24815d094f34d9eb2a1288d10b8bd359" title="Manage the sign before a number replacement." alt="" coords="714,32,821,59"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="890,126,826,80,795,62,798,57,829,75,893,122"/>
+<area shape="rect" id="Node000011" href="$ft__putnbr__base__p_8c.html#a2f33d4ba2e17b7b581850c0bf068afdf" title="Affect a memory address in an certain numbering." alt="" coords="707,133,828,160"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="861,149,828,149,828,144,861,144"/>
+<area shape="rect" id="Node000012" href="$ft__write_8c.html#a730bd2eb7867fbd80bc9e04f61e416df" title="affect the output of a characters replacement" alt="" coords="729,184,806,211"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="865,168,807,187,805,182,863,163"/>
+<area shape="rect" id="Node000013" href="$ft__write_8c.html#a01d254796239c3682d4c3217b0dbfc97" title="affect the output of a replacement by a % character" alt="" coords="435,235,526,261"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="900,173,868,202,829,225,789,239,748,248,664,258,588,259,526,256,526,251,588,254,664,253,747,243,788,234,827,220,865,197,896,169"/>
+<area shape="rect" id="Node000014" href="$ft__write_8c.html#a2fd555d46ef57de30b899e4c8d41af8a" title="affect the output of a string replacement" alt="" coords="579,285,655,312"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="909,175,878,224,855,249,829,269,785,288,738,299,693,303,655,304,655,299,693,298,737,294,783,283,826,265,852,245,873,221,905,172"/>
+<area shape="rect" id="Node000003" href="$ft__write_8c.html#acb5c93b91b86ca3ea395b496eef6850d" title="affect the output of a number replacement" alt="" coords="442,57,519,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="567,57,520,66,519,61,566,52"/>
+<area shape="rect" id="Node000004" href="$ft__printf_8c.html#a75dbee89b4b5fb139eaec840cb59cbe7" title="Affect the output of a replacement." alt="" coords="309,184,387,211"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,97,365,186,362,182,453,93"/>
+<area shape="rect" id="Node000005" href="$ft__printf_8c.html#ad6d2b4491ee2a77161176f3e34e11505" title="Find the content to print (after replacements)" alt="" coords="214,184,261,211"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,200,262,200,262,195,295,195"/>
+<area shape="rect" id="Node000006" href="$ft__printf_8c.html#a1ee8ae8a80a7d9141ea5339af8565f2e" title="Replication of the printf function." alt="" coords="103,184,166,211"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="199,200,166,200,166,195,199,195"/>
+<area shape="rect" id="Node000007" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,184,55,211"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="88,200,55,200,55,195,88,195"/>
+<area shape="rect" id="Node000009" href="$ft__write_8c.html#a905ddf384a970ba04f14b3201c110783" title="affect the output of a pointer replacement" alt="" coords="442,133,519,160"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="559,149,519,149,519,144,559,144"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="431,168,386,186,384,181,429,164"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="699,48,653,48,653,43,699,43"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="692,149,660,149,660,144,692,144"/>
+<area shape="poly" id="edge15_Node000012_Node000004" title=" " alt="" coords="714,200,387,200,387,195,714,195"/>
+<area shape="poly" id="edge17_Node000013_Node000004" title=" " alt="" coords="429,231,384,214,386,209,431,226"/>
+<area shape="poly" id="edge19_Node000014_Node000004" title=" " alt="" coords="563,302,500,296,466,288,434,276,410,262,390,246,358,213,362,210,393,242,413,258,436,271,467,283,501,290,564,297"/>
+</map>

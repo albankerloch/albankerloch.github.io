@@ -1,0 +1,12 @@
+<map id="ft_countnbr_base" name="ft_countnbr_base">
+<area shape="rect" id="Node000001" title="Calculation of the length needed for a number replacement." alt="" coords="5,31,126,57"/>
+<area shape="rect" id="Node000002" href="$ft__putnbr__base_8c.html#a522e39ec68ab1b0f1e65eae477f9167c" title="Calculation of a number of digit." alt="" coords="282,5,331,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,27,173,16,222,13,267,14,267,19,222,18,174,21,115,33"/>
+<area shape="rect" id="Node000004" href="$ft__putnbr__base_8c.html#a817a9932ef93b9a42819eafa88b400e6" title="Calculation of a number of characters needed for printing a given number." alt="" coords="179,31,229,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="126,41,164,41,164,47,126,47"/>
+<area shape="rect" id="Node000005" href="$ft__isdigit_8c.html#abc1bdaeaea0d28d9499f5f13194ca0ca" title="Replication of the max function." alt="" coords="174,81,234,108"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="105,55,161,76,159,81,103,60"/>
+<area shape="rect" id="Node000003" href="$ft__strlen_8c.html#a828402378653640f545a4be2e00e92f9" title="Replication of the strlen function." alt="" coords="379,5,447,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,16,364,16,364,21,332,21"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="228,35,267,26,268,31,230,41"/>
+</map>
